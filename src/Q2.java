@@ -8,6 +8,7 @@ import java.io.IOException;
 /**
  *
  * @author Nurul.Nadia.Idris
+ * @For Asigment 1 - Question 2
  */
 
 public class Q2 {
